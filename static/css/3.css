@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#s {
+    width: 900px;
+    height: 500px;
+    background-color: rgb(209, 204, 204);
+    display: block;
+    margin: auto;
+    padding-left: 5px;
+}
+
+.barInfo {
+    fill: #FFFFFF;
+    font-weight: 800;
+    font-size: 24pt;
+}
+
+.value {
+    fill: #8A2E2E;
+    font-size: 20pt;
+    font-weight: 400;
+    font-family: "Fira Code", "Source Han Sans CN"
+}
